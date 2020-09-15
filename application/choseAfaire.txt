@@ -1,0 +1,8 @@
+-> ajouter des tableaux des cards a l'accueil avant de se connecter,
+-> mail doublon
+-> revoir operation avec attente, ne pas affecter le calcul tant que l'opération n'est pas validé
+-> afficher le nombre de taches autorisé par employés 
+-> revoir le tableau qui doit afficher que les opérations en cours du  par ID et role
+-> faire le tri de chaque role, liste opé par ordre alphabétique
+-> HORS CONNEXION : En premier affichage, on peut afficher la liste des opérations en cours (avec les ROLES, et LISTE Opé terminées triées par ORDRE alphabétique)
+-> doublon ds bdd

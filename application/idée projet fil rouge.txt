@@ -1,0 +1,47 @@
+-> Une solution de micro-covoiturage adaptée pour les grandes entreprises
+
+Chacun enregistrerait sur un site web ou une application mobile son trajet régulier entre son lieu de travail et son domicile. 
+Chaque jour, un peu avant d’effectuer son trajet aller ou retour ( 10 à 30 minutes avant ? ) on valide l’horaire de départ prévu. 
+Un site web / appli mobile et un écran dans le hall de l’établissement récapitulent les départs proches avec la destination à la
+ manière d’un affichage de gare ou d’aéroport, et les gens intéressés pourraient l’indiquer et rejoindre le conducteur 
+ à un point de rendez-vous prévu.
+
+->Une application mobile pour savoir où passer sa soirée si on a rien de prévu
+
+Via une carte ou même de la réalité augmentée si on est déjà en ville pour se guider dans la bonne direction en regardant autour de soi. 
+En s’appuyant par exemple sur les évènements Facebook publics et privés, on verrait en 
+un clin d’oeil les soirées / concerts / évènements / expositions disponibles à l’instant t ou dans quelques heures, 
+avec leur position géographique exacte et les horaires.
+
+->Une application de troc de services
+
+Pour les gens ont des compétences plus ou moins poussées dans divers domaines, on pourrait remplir une fiche en indiquant ses compétences. 
+Quand on a besoin d’un service, par exemple de la plomberie ou de la menuiserie, on pourrait faire une recherche, 
+trouver un profil adapté de quelqu’un de disponible et lui indiquer notre besoin. A son tour il pourrait regarder nos compétences 
+et décider si il est interessé pour faire du troc maintenant ou plus tard, par exemple en échange d’une formation en cuisine ou en mixage, 
+et on validerait ensuite l’échange. Les profils seraient notés comme sur blablacar et compagnie pour éviter les gens peu fiables. 
+On pourrait même éventuellement avoir un système de points qui remplacerait l’argent et qu’on pourrait cumuler si on veut rendre
+ le service sans échange équivalent, et qui nous donnerait du crédit plus tard pour profiter à notre tour d’un service sans troc.
+
+                 Niveau developpement:
+                        ->ajout d'un profil, 
+                        ->parrainage, 
+                        ->messagerie entre les deux, 
+                        ->version mobile et pc, 
+                        -> systeme de point/récompenses 
+                        -> systeme de profil avec note (pour la fiabilité)
+                        -> vérifications des informations
+                        -> systeme de recherche de profil/compétences 
+                        -> ajout de photo/lien/description des compétences/domaines
+
+                Technologies & languages:
+                        coté front:
+                        ->framework React 
+                        ->jQuery
+                        ->html/css
+                        ->JS
+
+                        coté back:
+                        ->framework symphony
+                        ->bdd mySql
+                        ->PHP

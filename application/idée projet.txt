@@ -1,0 +1,4 @@
+->site qui référence tous les idées de projet de personne qui soit n'ont pas les moyens de les faire déployés alors laisse le droit à qui le veut de l'obtenir et de développer l'idée à leur nom
+->soit les gens mettent leur idée et souhaite être contacté si qqln veut l'utiliser
+-> compte client/compte prenium avec possibilité de prendre 3 projets, de les bloquer et que du coup les autres utilisateur n'est plus de visuel dessus. Ce qui leur permet de développer trql
+-> par contre une date de fin est défini dans le contrat entre le site et le développer qui s'engage à reprndre le concept et l'idée
